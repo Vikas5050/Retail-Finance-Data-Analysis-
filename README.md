@@ -4,6 +4,8 @@
 
 ## 📌 Project Overview
 This project focuses on analyzing retail financial data using Power BI to gain insights into revenue, orders, customer behavior, transaction patterns, and product performance. The objective is to enhance data-driven decision-making by visualizing key metrics.
+[retail_finance](https://github.com/user-attachments/assets/4c470c8e-2966-4725-875f-1fd57573d339)
+
 
 ## 🚀 Features
 - **Revenue & Order Analysis**: Calculate total revenue, average order price, and order trends.
